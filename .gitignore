@@ -1,3 +1,4 @@
 public/downloads
 node_modules
 .idea
+.DS_store
