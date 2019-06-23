@@ -1,0 +1,27 @@
+{
+  "name": "ytbaku-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blikacka/youtube-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blikacka/youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/blikacka/youtube-downloader#readme",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "youtube-audio-server": "^2.3.0"
+  }
+}
