@@ -19,7 +19,7 @@
   "dependencies": {
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "request": "^2.88.0",
     "youtube-audio-server": "^2.3.0"
